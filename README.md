@@ -9,7 +9,7 @@ Apache 2.4.x / MySQL 5.7.x / PHP 7.0.x
 ## Install
 ```bash
 composer require pieni/tutorial
-mysql -uroot < vendor/pieni/tutorial/misc/pieni_tuttorial.dump
+mysql -uroot < vendor/pieni/tutorial/misc/pieni-tutorial.dump
 cp vendor/pieni/tutorial/index.php .
 cp vendor/pieni/pieni/.htaccess .
 cp vendor/pieni/pieni/.gitignore .
