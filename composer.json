@@ -1,0 +1,21 @@
+{
+    "name": "pieni/tutorial",
+    "description": "An tutorial for pieni",
+    "type": "library",
+    "keywords": [
+        "pieni",
+        "tutorial",
+        "forum"
+    ],
+    "homepage": "https://github.com/sagittar-org/pieni",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sagittarius Systems",
+            "homepage": "https://github.com/sagittar-org"
+        }
+    ],
+    "require": {
+        "pieni/console": "0.1.*"
+    }
+}

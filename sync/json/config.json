@@ -1,0 +1,25 @@
+{
+    "db": {
+        "host": {
+            "value": "localhost"
+        },
+        "user": {
+            "value": "root"
+        },
+        "password": {
+            "value": ""
+        },
+        "database": {
+            "value": "pieni-tutorial"
+        }
+    },
+    "languages": {
+        "en": [],
+        "ja": []
+    },
+    "actors": {
+        "g": [],
+        "m": [],
+        "a": []
+    }
+}
